@@ -34,3 +34,11 @@ It consists of options namely:
 ## Conclusion:
 The project is very useful in maintaining the records of existing stock of cars and sales records along with customer details.
 The project when implemented successfully can be used to reduce the work load of car agency manager efficiently.
+
+## Prerequisites
+```
+Language used :C++
+Data Stuctures: Linked Lists, Stacks and Queues
+```
+
+This project was made by collectively by [Mansi Breja](https://github.com/MansiBreja) and  [Kavita Maurya](https://github.com/Kavita309) as a part of the Data Structures project, 2nd Sem, NSIT, Delhi.
