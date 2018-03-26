@@ -41,4 +41,4 @@ Language used :C++
 Data Stuctures: Linked Lists, Stacks and Queues
 ```
 
-This project was made by collectively by [Mansi Breja](https://github.com/MansiBreja) and  [Kavita Maurya](https://github.com/Kavita309) as a part of the Data Structures project, 2nd Sem, NSIT, Delhi.
+This project was made collectively by [Mansi Breja](https://github.com/MansiBreja) and  [Kavita Maurya](https://github.com/Kavita309) as a part of the Data Structures project, 2nd Sem, NSIT, Delhi.
